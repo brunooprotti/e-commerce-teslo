@@ -1,4 +1,3 @@
-import { Product } from '@/products/interfaces/product-response.interface';
 import { ProductsService } from '@/products/services/products.service';
 import { Component, inject, Input, input } from '@angular/core';
 import { rxResource } from '@angular/core/rxjs-interop';
